@@ -506,12 +506,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Things to note / Checklist:\n- Get used to the environment\nTry these:\n\t-change
-    transform values for an object, like scale of the logo\n\t- Make a new object
-    like a cube or somethin and have it visible on game screen.\n\n\n- How to communicate
-    between editor and script (check button object/script)\n\n- The examplescript
-    is a component of the logo-object\n\n- Theres no gameobject in hierarchy before
-    you press the button \n(Instantiating objects)\n\n"
+  m_Text: "Things to note / Checklist:\n- Get used to the environment\nTry these:\n\t-press
+    play button above to demo the demo\n\t-change transform values for an object,
+    like scale of the logo\n\t- Make a new object like a cube or somethin and have
+    it visible on game screen.\n\n\n- How to communicate between editor and script
+    (check button object/script)\n\n- The examplescript is a component of the logo-object\n\n-
+    Theres no gameobject in hierarchy before you press the button \n(Instantiating
+    objects)\n\n"
 --- !u!222 &1005854643
 CanvasRenderer:
   m_ObjectHideFlags: 0
