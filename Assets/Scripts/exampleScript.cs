@@ -6,7 +6,7 @@ public class exampleScript : MonoBehaviour
 {
     // declare necessary things
     public GameObject cube_prefab; // public for editor DRAG&DROP functionality, can be seen in inspector
-    GameObject cube_GO; // f. ex gameobjects you need
+    GameObject cube_GO, BG_GO; // f. ex gameobjects you need
     public float spin_rate; // public property is shown in the editor, check the inspector! easy to change there.
     // TRY: You can change public properties like spin_rate AT RUNTIME to test them! However this will not change the save on its own.
     bool spinning;
@@ -15,17 +15,23 @@ public class exampleScript : MonoBehaviour
     // theres also Awake() that is called before Start
     void Start()
     {
-        Debug.Log("this is how to print in editor log");
-        var currentpos = transform.localPosition; // gameObject, transform etc to access properties of the GameObject that THIS SCRIPT IS ATTACHED TO
-        // set starting values (you can do this above but its cleaner to do here if you have a lot of other things to declare)
+        Debug.Log("this is how to print in editor log"); // printing
+
+        // gameObject, transform etc are properties of the GameObject that THIS SCRIPT IS ATTACHED TO
+        var currentpos = transform.localPosition; 
+        // format starting values
         spin_rate = .1f;
         spinning = false;
 
+        // the programmatic way to grab objects is this:
+        BG_GO = GameObject.Find("BG");
+        // OR you can find by type or set custom tags to objects:
+        Camera[] all_cameras = GameObject.FindObjectsOfType<Camera>();
+
         // this is how you set components in objects if you need to access just a specific thing:
-        // example: set renderer to a variable and set its materials color to red
-        // this object also doesnt exist so this should give an error in the debug log
-        MeshRenderer cube_renderer = cube_GO.GetComponent<MeshRenderer>();
-        cube_renderer.material.color = Color.red;
+        // example: set renderer to a variable and set its materials color
+        MeshRenderer BG_renderer = BG_GO.GetComponent<MeshRenderer>();
+        BG_renderer.material.color = Color.white;
     }
 
     // Update is called once per frame
@@ -44,8 +50,7 @@ public class exampleScript : MonoBehaviour
     {
         if (cube_GO)
         {
-            Debug.Log(cube_GO.transform.rotation.ToString());   
-            spinning = !spinning; // boolean for the udpate loop
+            spinning = !spinning;
         }   
         else
         {
