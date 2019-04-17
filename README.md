@@ -15,6 +15,8 @@ Some older docs for unity hub [here](https://docs.google.com/document/d/10Z9lsSV
 > 2. Make a new project ( Projects -> New ...)
 > Use version control (which is recommended and a good thing to learn as well) if you can.
 
+**TO BE CONTINUED...**
+
 > 3. Think of the game you wish to make, then simplify it a hundred times over.
 
 ![SIMPLIFY](https://media0.giphy.com/media/IHnROpQICe4kE/giphy.gif?cid=790b76115cb70f3c43726e732e1794be)
