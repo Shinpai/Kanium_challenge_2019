@@ -13,14 +13,14 @@ Some older docs for unity hub [here](https://docs.google.com/document/d/10Z9lsSV
 > UPDATE: They just announced 2019.1.0f2,  we'll stick with 2018.3.x still
 
 > 2. Make a new project ( Projects -> New ...)
-
 > Use version control (which is recommended and a good thing to learn as well) if you can.
 
 > 3. Think of the game you wish to make, then simplify it a hundred times over.
 
 ![SIMPLIFY](https://media0.giphy.com/media/IHnROpQICe4kE/giphy.gif?cid=790b76115cb70f3c43726e732e1794be)
 
-> 4. Make game
+> 4. Make game (read rules first)
+
 
 ### RULES:
 > 0. Your game must control using only ONE BUTTON! This includes such glorious events as: 
@@ -40,6 +40,7 @@ Some older docs for unity hub [here](https://docs.google.com/document/d/10Z9lsSV
 > 4. Must share end result, whatever it is. Again, does not matter if it is unfinished or very simple, everyone is doing different stuff at different levels and the point is to learn something.
 
 > 5. MOST IMPORTANT RULE: try to learn something, have fun doing it.
+
 
 ![root](https://media1.tenor.com/images/8a322e94bdb253a5fb42d010480d0163/tenor.gif?itemid=5104276)
 
