@@ -15,6 +15,9 @@ Some older docs for unity hub [here](https://docs.google.com/document/d/10Z9lsSV
 > If you want to use version control (which is recommended and a good thing to learn as well), ask Noctem for Kanium github access to get started.
 
 > 3. Think of the game you wish to make, then simplify it a hundred times over.
+
+![SIMPLIFY](https://media0.giphy.com/media/IHnROpQICe4kE/giphy.gif?cid=790b76115cb70f3c43726e732e1794be)
+
 > 4. Make game
 
 ### RULES:
@@ -23,7 +26,7 @@ Some older docs for unity hub [here](https://docs.google.com/document/d/10Z9lsSV
 >> - hold the button
 >> - release the button
 
-> If you can, try to come up with mechanics or events that complement such simple control schema.
+> This should emphasize that the game should be VERY simple. This does not mean that you cannot have depth in your game, it is rather to ground your expectations for a two day jam. If you can, try to come up with mechanics or events that complement such simple control schema.
 
 > 1. Try to not share what you are doing too much, more fun looking at other peoples stuff after. Tech issues and such aside of course. This challenge is for learning stuff together after all.
 
@@ -34,6 +37,8 @@ Some older docs for unity hub [here](https://docs.google.com/document/d/10Z9lsSV
 > 4. Must share end result, whatever it is. Again, does not matter if it is unfinished or very simple, everyone is doing different stuff at different levels and the point is to learn something.
 
 > 5. MOST IMPORTANT RULE: try to learn something, have fun doing it.
+
+![root](https://media1.tenor.com/images/8a322e94bdb253a5fb42d010480d0163/tenor.gif?itemid=5104276)
 
 ### RESOURCES:
 [OFFICIAL DOCS](https://docs.unity3d.com/Manual/index.html)
