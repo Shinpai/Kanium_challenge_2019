@@ -2,26 +2,29 @@
 A gamejam sort of development challenge/workshop to learn to use Unity. Maybe just use it for motivation to get started with unity.
 ---
 
-### Instructions
+### Instructions (for windows users. other users: figure it out)
 
 > 1. Download unity hub(**recommended**) [from here](https://unity3d.com/get-unity/download)
+> 1.1 Install unity hub
 
 Some older docs for unity hub [here](https://docs.google.com/document/d/10Z9lsSVKfrr4agsquOlUs5s1wlfK7Kng95hLQovGDfk/edit), should still apply except its easier now. You dont need these necessarily. Its easy.
 
-> 1.1 Install a unity version through hub ( Installs -> Official )
-> (just get a 2018.3.x, they are pretty compatible, current is 2018.3.12f)
-> UPDATE: They just announced 2019.1.0f2,  we'll stick with 2018.3.x still
-
-> 2. Make a new project ( Projects -> New ...)
-> Use version control (which is recommended and a good thing to learn as well) if you can.
+> 1.2 Install a unity version through hub ( Installs -> Official )
+> (preferably get a 2018.3.x, they are pretty compatible, current is 2018.3.12f)
+> UPDATE: They just published 2019.1.0f2, we'll stick with 2018.3.x still.
 
 **TO BE CONTINUED... soon**
 
-> 3. Think of the game you wish to make, then simplify it a hundred times over.
+> 2. Download the project and unpack it somewhere you want
+> 2.1 Open the project ( Projects -> Open ...)
+> 2.2 Select the zip folder you unpacked before (/Kanium_challenge_2019)
+> Use version control (which is recommended and a good thing to learn as well) if you can.
+
+> 4. Think of the game you wish to make, then simplify it a hundred times over.
 
 ![SIMPLIFY](https://media0.giphy.com/media/IHnROpQICe4kE/giphy.gif?cid=790b76115cb70f3c43726e732e1794be)
 
-> 4. Make game (read rules first)
+> 5. Make game (read rules first)
 
 
 ### RULES:
@@ -68,3 +71,4 @@ Some older docs for unity hub [here](https://docs.google.com/document/d/10Z9lsSV
 * Youtube is full of "how to do this thing in unity" videos.
 * Ask me in discord (Shinpai) if you need help with anything.
 ---
+last edit: 17.04.2019 - haeejuut
